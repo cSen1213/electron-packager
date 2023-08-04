@@ -1,0 +1,18 @@
+node_modules
+out
+# production
+/dist
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+
+# visual studio code
+.history
+*.log
+functions/*
+.temp/**
+*bak
+.vscode
+**/node_modules
